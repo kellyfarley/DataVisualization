@@ -1,0 +1,46 @@
+---
+title: "Data Visualization Compiled Work"
+author: "Kelly Farley"
+date: "12/20/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, cache=FALSE)
+```
+
+```{r}
+# libraries tbd
+```
+
+# PLSC 349: Visualization of Political and Social Data
+
+## Course Description
+
+Theory, history, and practice of visualization of social and political data by hand and using the ggplot2 package in tidyverse in R. Study and critique of data visualization best practices, such as Anscombe's quartet, minimalism, data-ink ratio maximization, ducks, the lie factor, and small multiples. Focus on thoughtful and honest presentation of data and the perception of graphs in a social context.
+
+## Key Skills
+
+* **Best practices in data visualization**: emphasis on including both the raw data and the summary statistics to show what we know and why we think we know it
+
+* **Data density**: conveying the most information with the least amount of ink
+
+* **Style imitation**: mimicking famous art pieces and data visualizations in ggplot2, then redesigning in our own style
+
+* **ggplot2 in R**: sunburst plots, spaghetti plots, tree maps, geographical maps, networks, scatter plots, bar plots, box plots, faceted graphs, etc.
+
+* **Empirical validation of theoretical claims of visualization**: design and analysis of a A/B graph perception experiment to examine how different presentations influence conclusions
+
+## Coding Samples
+
+Each of the nine problem sets in the course revolved around imitating the style of an artist / historian / statistician. We would reflect on what we liked and disliked about the visualization, recreate the original in ggplot2, redesign our own version, and create a new visualization with new data in the style of the original. The below excerpts showcase the skills and thought processes acquired.
+
+Of note is the degree of freedom we were granted in this class. The combination of drawing by hand and using ggplot2 made me more intentional with my visualizations, questioning the default ggplot2 settings I used to rely on.
+
+1. **tbd**
+
+tbd
+
+### tbd
+
+tbd
