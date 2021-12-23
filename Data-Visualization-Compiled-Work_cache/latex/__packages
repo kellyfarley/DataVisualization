@@ -1,0 +1,17 @@
+base
+ggplot2
+ggmosaic
+ggforce
+ggthemes
+gridExtra
+gganimate
+gifski
+gapminder
+tidyverse
+tibble
+tidyr
+readr
+purrr
+dplyr
+stringr
+forcats
